@@ -1,3 +1,2 @@
-# Generic GitHub Pages Website
+# Academic _and_ personal projects
 
-This is a _very_ informative README file for my personal website!
